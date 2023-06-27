@@ -1,0 +1,22 @@
+[2023-06-27T12:29:47.974] [INFO] execution - URL - https://www.amazon.in/ - launched successfully
+[2023-06-27T12:29:48.420] [INFO] execution - Clicked on all_button
+[2023-06-27T12:29:48.875] [INFO] execution - Scrolling the page to view the mens_Fashion
+[2023-06-27T12:29:49.219] [INFO] execution - Clicked on mens_Fashion
+[2023-06-27T12:29:49.544] [INFO] execution - Clicked on Shirts_links
+[2023-06-27T12:29:52.879] [INFO] execution - Hovered on element first_shirt succcessfully
+[2023-06-27T12:29:53.275] [INFO] execution - Hovered on element quicklook succcessfully
+[2023-06-27T12:29:53.593] [INFO] execution - Clicked on quicklook
+[2023-06-27T12:29:57.944] [INFO] execution - Waited for - 4
+[2023-06-27T12:29:58.285] [INFO] execution - Clicked on productdetails
+[2023-06-27T12:30:09.227] [INFO] execution - Waited for - 4
+[2023-06-27T12:30:09.513] [INFO] execution - Clicked on Color_blue
+[2023-06-27T12:30:13.866] [INFO] execution - Waited for - 4
+[2023-06-27T12:30:14.243] [INFO] execution - Clicked on Size
+[2023-06-27T12:30:14.611] [INFO] execution - Clicked on product_size
+[2023-06-27T12:30:19.090] [INFO] execution - Waited for - 4
+[2023-06-27T12:30:19.438] [INFO] execution - Clicked on addtocart
+[2023-06-27T12:30:23.802] [INFO] execution - Waited for - 4
+[2023-06-27T12:30:24.036] [INFO] execution - Clicked on gotocart
+[2023-06-27T12:30:31.787] [INFO] execution - Waited for - 4
+[2023-06-27T12:30:31.965] [INFO] execution - Text mismatch | Actual - 1 | Expected - 1
+[2023-06-27T12:30:42.093] [INFO] execution - Waited for - 10
